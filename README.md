@@ -6,7 +6,7 @@
 ![image](https://github.com/ddovwll/PokerPractik/assets/130849986/f966f7f8-b625-4644-b4b2-3315b8910783)
 
 Пример игрового процесса:
-https://drive.google.com/drive/folders/1QZVBK32gJdHEyJz4mi5hL4spokunJ65z?usp=sharing
+https://youtu.be/XjxCTkH9d_A
 
 Проект полностью создан на языке программирования C++, с использованием только стандартных библиотек и среды разработки Visual Studio. Проект разбит на несколько файлов для удобства чтения и редактирования программного кода.
 
